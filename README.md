@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/NemriSaif/portfolio"><img src="https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://portfolio-nine-xi-8ebnmukpwr.vercel.app"><img src="https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/saif-nemri-95a174286/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:saifnemri2k21@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://cal.com/saif-nemri-uxmua9"><img src="https://img.shields.io/badge/Schedule_a_call-008060?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Cal.com"/></a>
@@ -102,5 +102,5 @@
 
 <p align="center">
   <i>Open to chat about full-stack work, healthcare tech, or anything you're building.</i><br/>
-  <a href="https://github.com/NemriSaif/portfolio">github.com/NemriSaif/portfolio</a> · <a href="mailto:saifnemri2k21@gmail.com">saifnemri2k21@gmail.com</a>
+  <a href="https://portfolio-nine-xi-8ebnmukpwr.vercel.app">portfolio-nine-xi.vercel.app</a> · <a href="mailto:saifnemri2k21@gmail.com">saifnemri2k21@gmail.com</a>
 </p>
