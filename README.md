@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://nemrisaif.github.io"><img src="https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://github.com/NemriSaif/portfolio"><img src="https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/saif-nemri-95a174286/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:saifnemri2k21@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://cal.com/saif-nemri-uxmua9"><img src="https://img.shields.io/badge/Schedule_a_call-008060?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Cal.com"/></a>
@@ -57,8 +57,8 @@
   </a>
   <a href="https://github.com/NemriSaif">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=NemriSaif&hide_border=true&theme=tokyonight&v=2"/>
-      <img src="https://streak-stats.demolab.com?user=NemriSaif&hide_border=true&v=2" alt="GitHub streak" height="170"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=NemriSaif&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8"/>
+      <img src="https://github-profile-trophy.vercel.app/?username=NemriSaif&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub trophies" height="170"/>
     </picture>
   </a>
 </p>
@@ -102,5 +102,5 @@
 
 <p align="center">
   <i>Open to chat about full-stack work, healthcare tech, or anything you're building.</i><br/>
-  <a href="https://nemrisaif.github.io">nemrisaif.github.io</a> · <a href="mailto:saifnemri2k21@gmail.com">saifnemri2k21@gmail.com</a>
+  <a href="https://github.com/NemriSaif/portfolio">github.com/NemriSaif/portfolio</a> · <a href="mailto:saifnemri2k21@gmail.com">saifnemri2k21@gmail.com</a>
 </p>
