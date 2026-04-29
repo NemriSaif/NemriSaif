@@ -51,14 +51,14 @@
 <p align="center">
   <a href="https://github.com/NemriSaif">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=NemriSaif&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=NemriSaif&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" height="170"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=NemriSaif&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&rank_icon=github"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=NemriSaif&show_icons=true&hide_border=true&count_private=true&rank_icon=github" alt="GitHub stats" height="170"/>
     </picture>
   </a>
   <a href="https://github.com/NemriSaif">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=NemriSaif&hide_border=true&theme=tokyonight"/>
-      <img src="https://streak-stats.demolab.com?user=NemriSaif&hide_border=true" alt="GitHub streak" height="170"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=NemriSaif&hide_border=true&theme=tokyonight&v=2"/>
+      <img src="https://streak-stats.demolab.com?user=NemriSaif&hide_border=true&v=2" alt="GitHub streak" height="170"/>
     </picture>
   </a>
 </p>
