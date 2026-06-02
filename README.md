@@ -1,45 +1,31 @@
-<h1 align="center">Saif Nemri</h1>
-
 <p align="center">
-  <a href="https://portfolio-nine-xi-8ebnmukpwr.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=620&lines=Software+Engineer+%40+ACTIMI;Full-stack+web+%26+mobile+developer;Building+healthcare+tech+in+Stuttgart;Next.js+%C2%B7+NestJS+%C2%B7+Flutter+%C2%B7+AWS" alt="Software Engineer at ACTIMI, full-stack web and mobile developer building healthcare tech in Stuttgart"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/NemriSaif/NemriSaif/main/assets/hero.svg" alt="Saif Nemri, Software Engineer at ACTIMI in Stuttgart. I build full-stack web and mobile products for healthcare." width="100%"/>
 </p>
 
 <p align="center">
-  <b>Software Engineer @ ACTIMI</b> &nbsp;&middot;&nbsp; Stuttgart, Germany &nbsp;&middot;&nbsp; Full-stack web &amp; mobile
-</p>
-
-<p align="center">
-  <a href="https://portfolio-nine-xi-8ebnmukpwr.vercel.app"><img src="https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/saif-nemri-95a174286/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:saifnemri2k21@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://cal.com/saif-nemri-uxmua9"><img src="https://img.shields.io/badge/Book_a_call-000000?style=for-the-badge&logo=caldotcom&logoColor=white" alt="Book a call"/></a>
-  <img src="https://komarev.com/ghpvc/?username=NemriSaif&label=Profile%20views&color=22d3ee&style=for-the-badge" alt="Profile views"/>
+  <a href="https://portfolio-nine-xi-8ebnmukpwr.vercel.app"><b>Portfolio</b></a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://www.linkedin.com/in/saif-nemri-95a174286/">LinkedIn</a>
+  &nbsp;&middot;&nbsp;
+  <a href="mailto:saifnemri2k21@gmail.com">Email</a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://cal.com/saif-nemri-uxmua9">Book a call</a>
 </p>
 
 ---
 
-### About me
+### About
 
 I am a software engineer at ACTIMI in Stuttgart, where I ship web and mobile features for real healthcare workflows. I work across the whole stack, with TypeScript on the front and back, mobile in Flutter and React Native, and the cloud on AWS. Most of my time right now goes into FHIR healthcare data, AI-assisted clinical tooling, and offline-first mobile apps.
 
-- Software Engineer @ ACTIMI, Stuttgart, Germany
-- Master's in Computer Science, ESPRIT (2023 to 2026)
-- Languages: Arabic (native), English (fluent), French (B1 to B2), German (A1 to A2)
+Master's in Computer Science at ESPRIT (2023 to 2026). I speak Arabic (native), English (fluent), French (B1 to B2), and German (A1 to A2).
 
 ---
 
-### Tech
+### Stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,nestjs,express,spring,dotnet,java&perline=10" alt="React, Next.js, TypeScript, JavaScript, Node.js, NestJS, Express, Spring, .NET, Java"/>
-  </a>
-  <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,tailwind,bootstrap,mongodb,postgres,prisma,firebase,aws,docker,git,github,vscode,figma,postman&perline=15" alt="Flutter, Dart, Tailwind, Bootstrap, MongoDB, Postgres, Prisma, Firebase, AWS, Docker, Git, GitHub, VS Code, Figma, Postman"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/NemriSaif/NemriSaif/main/assets/stack.svg" alt="Stack. Frontend: React, Next.js, React Native, Flutter, Tailwind CSS. Backend: Node.js, NestJS, Express, Spring Boot, .NET. Languages: TypeScript, JavaScript, Java, Dart, C#. Data and cloud: PostgreSQL, MongoDB, Prisma, Firebase, AWS, FHIR. Tooling: Git, Docker, CI/CD, Figma, Postman." width="100%"/>
 </p>
 
 ---
@@ -57,7 +43,7 @@ I am a software engineer at ACTIMI in Stuttgart, where I ship web and mobile fea
 
 ### At ACTIMI (private repos)
 
-My day job lives in private repos. I build React Native remote patient monitoring apps and Next.js clinician dashboards on a FHIR backend, plus internal tooling. You can read the case studies on my portfolio.
+My day job lives in private repos. I build React Native remote patient monitoring apps and Next.js clinician dashboards on a FHIR backend, plus internal tooling. The case studies are on my portfolio.
 
 <p align="center">
   <a href="https://portfolio-nine-xi-8ebnmukpwr.vercel.app/work/sensdoc"><img src="https://img.shields.io/badge/SensDoc-case_study-22D3EE?style=flat-square" alt="SensDoc case study"/></a>
@@ -87,12 +73,15 @@ My day job lives in private repos. I build React Native remote patient monitorin
 ---
 
 <p align="center">
-  Open to full-stack roles, healthcare tech, and good collaboration. The fastest ways to reach me:
+  Open to full-stack roles, healthcare tech, and good collaboration.
 </p>
 
 <p align="center">
-  <a href="https://portfolio-nine-xi-8ebnmukpwr.vercel.app">Portfolio</a> &nbsp;&middot;&nbsp;
-  <a href="https://www.linkedin.com/in/saif-nemri-95a174286/">LinkedIn</a> &nbsp;&middot;&nbsp;
-  <a href="mailto:saifnemri2k21@gmail.com">saifnemri2k21@gmail.com</a> &nbsp;&middot;&nbsp;
+  <a href="https://portfolio-nine-xi-8ebnmukpwr.vercel.app">Portfolio</a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://www.linkedin.com/in/saif-nemri-95a174286/">LinkedIn</a>
+  &nbsp;&middot;&nbsp;
+  <a href="mailto:saifnemri2k21@gmail.com">saifnemri2k21@gmail.com</a>
+  &nbsp;&middot;&nbsp;
   <a href="https://cal.com/saif-nemri-uxmua9">Book a call</a>
 </p>
