@@ -71,12 +71,9 @@ My day job lives in private repos. I build React Native remote patient monitorin
 ### GitHub activity
 
 <p align="center">
-  <a href="https://github.com/NemriSaif">
-    <img src="https://github-readme-stats.vercel.app/api?username=NemriSaif&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&rank_icon=github" alt="Saif's GitHub stats" height="165"/>
-  </a>
-  <a href="https://github.com/NemriSaif">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NemriSaif&layout=compact&hide_border=true&theme=tokyonight&langs_count=10" alt="Most used languages" height="165"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/NemriSaif/NemriSaif/main/assets/github-stats.svg" alt="GitHub at a glance: 334 commits in the last 12 months, 15 public repositories, 14 pull requests, 5 issues opened" width="420"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/NemriSaif/NemriSaif/main/assets/top-langs.svg" alt="Most used languages: TypeScript 47.6%, JavaScript 19.1%, HTML 18.2%, Dart 7.9%, SCSS 3%, Kotlin 1.4%" width="420"/>
 </p>
 
 <p align="center">
