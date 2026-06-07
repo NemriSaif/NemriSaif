@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-nine-xi-8ebnmukpwr.vercel.app"><b>Portfolio</b></a>
+  <a href="https://saifnemri.me"><b>Portfolio</b></a>
   &nbsp;&middot;&nbsp;
   <a href="https://www.linkedin.com/in/saif-nemri-95a174286/">LinkedIn</a>
   &nbsp;&middot;&nbsp;
@@ -34,22 +34,22 @@ Master's in Computer Science at ESPRIT (2023 to 2026). I speak Arabic (native), 
 
 | Project | What it does | Stack | Links |
 | --- | --- | --- | --- |
-| **CodeSage** | AI-powered GitHub repository analyzer with tech-stack detection, ESLint quality and Semgrep security scans, and an interactive Gemini chat over the codebase. | Next.js, NestJS, TypeScript, Prisma, Gemini | [Repo](https://github.com/NemriSaif/CodeSage) &middot; [Case study](https://portfolio-nine-xi-8ebnmukpwr.vercel.app/work/codesage) |
-| **EduConnect** | Mobile education platform with AI recommendations and blockchain credential verification. | React Native, Node.js, MongoDB | [Repo](https://github.com/NemriSaif/educonnect) &middot; [Case study](https://portfolio-nine-xi-8ebnmukpwr.vercel.app/work/educonnect) |
-| **JninaTech** | Offline-first urban gardening platform with role-based access. | Next.js, NestJS, MongoDB, PWA | [Repo](https://github.com/NemriSaif/PWA) &middot; [Case study](https://portfolio-nine-xi-8ebnmukpwr.vercel.app/work/jninatech) |
-| **StonkMarket** | Meme-investment platform with community voting and JWT/Auth0 auth. | MERN, JWT, Auth0 | [Repo](https://github.com/NemriSaif/StonkMarket) &middot; [Case study](https://portfolio-nine-xi-8ebnmukpwr.vercel.app/work/stonk-market) |
-| **GymManagement** | Gym management with a React Native member app and a React admin dashboard. | React Native, React, Node.js, PostgreSQL | [Repo](https://github.com/NemriSaif/GymManagement) &middot; [Case study](https://portfolio-nine-xi-8ebnmukpwr.vercel.app/work/gym-management) |
-| **Health360** | Cross-platform health assistant for elderly users with an AI chatbot and OCR. | Flutter, Swift, Kotlin, NestJS | [Repo](https://github.com/NemriSaif/PDM_Health360) &middot; [Case study](https://portfolio-nine-xi-8ebnmukpwr.vercel.app/work/health360) |
+| **CodeSage** | AI-powered GitHub repository analyzer with tech-stack detection, ESLint quality and Semgrep security scans, and an interactive Gemini chat over the codebase. | Next.js, NestJS, TypeScript, Prisma, Gemini | [Repo](https://github.com/NemriSaif/CodeSage) &middot; [Case study](https://saifnemri.me/work/codesage) |
+| **EduConnect** | Mobile education platform with AI recommendations and blockchain credential verification. | React Native, Node.js, MongoDB | [Repo](https://github.com/NemriSaif/educonnect) &middot; [Case study](https://saifnemri.me/work/educonnect) |
+| **JninaTech** | Offline-first PWA for large-scale field operations: work sites, fleet, fuel, and inventory, with role-based dashboards. | Next.js, NestJS, MongoDB, PWA | [Repo](https://github.com/NemriSaif/PWA) &middot; [Case study](https://saifnemri.me/work/jninatech) |
+| **StonkMarket** | Meme-investment platform with community voting and JWT/Auth0 auth. | MERN, JWT, Auth0 | [Repo](https://github.com/NemriSaif/StonkMarket) &middot; [Case study](https://saifnemri.me/work/stonk-market) |
+| **GymManagement** | Gym management with a React Native member app and a React admin dashboard. | React Native, React, Node.js, PostgreSQL | [Repo](https://github.com/NemriSaif/GymManagement) &middot; [Case study](https://saifnemri.me/work/gym-management) |
+| **Health360** | Cross-platform health assistant for elderly users with an AI chatbot and OCR. | Flutter, Swift, Kotlin, NestJS | [Repo](https://github.com/NemriSaif/PDM_Health360) &middot; [Case study](https://saifnemri.me/work/health360) |
 
 ### At ACTIMI (private repos)
 
 My day job lives in private repos. I build React Native remote patient monitoring apps and Next.js clinician dashboards on a FHIR backend, plus internal tooling. The case studies are on my portfolio.
 
 <p align="center">
-  <a href="https://portfolio-nine-xi-8ebnmukpwr.vercel.app/work/sensdoc"><img src="https://img.shields.io/badge/SensDoc-case_study-22D3EE?style=flat-square" alt="SensDoc case study"/></a>
-  <a href="https://portfolio-nine-xi-8ebnmukpwr.vercel.app/work/telepress"><img src="https://img.shields.io/badge/Telepress-case_study-22D3EE?style=flat-square" alt="Telepress case study"/></a>
-  <a href="https://portfolio-nine-xi-8ebnmukpwr.vercel.app/work/dadriv"><img src="https://img.shields.io/badge/DaDriv-case_study-22D3EE?style=flat-square" alt="DaDriv case study"/></a>
-  <a href="https://portfolio-nine-xi-8ebnmukpwr.vercel.app/work/ops-dashboard"><img src="https://img.shields.io/badge/Operations_Dashboard-case_study-22D3EE?style=flat-square" alt="Operations Dashboard case study"/></a>
+  <a href="https://saifnemri.me/work/sensdoc"><img src="https://img.shields.io/badge/SensDoc-case_study-22D3EE?style=flat-square" alt="SensDoc case study"/></a>
+  <a href="https://saifnemri.me/work/telepress"><img src="https://img.shields.io/badge/Telepress-case_study-22D3EE?style=flat-square" alt="Telepress case study"/></a>
+  <a href="https://saifnemri.me/work/dadriv"><img src="https://img.shields.io/badge/DaDriv-case_study-22D3EE?style=flat-square" alt="DaDriv case study"/></a>
+  <a href="https://saifnemri.me/work/ops-dashboard"><img src="https://img.shields.io/badge/Operations_Dashboard-case_study-22D3EE?style=flat-square" alt="Operations Dashboard case study"/></a>
 </p>
 
 ---
@@ -77,7 +77,7 @@ My day job lives in private repos. I build React Native remote patient monitorin
 </p>
 
 <p align="center">
-  <a href="https://portfolio-nine-xi-8ebnmukpwr.vercel.app">Portfolio</a>
+  <a href="https://saifnemri.me">Portfolio</a>
   &nbsp;&middot;&nbsp;
   <a href="https://www.linkedin.com/in/saif-nemri-95a174286/">LinkedIn</a>
   &nbsp;&middot;&nbsp;
