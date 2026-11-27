@@ -18,7 +18,7 @@
 
 I am a software engineer at ACTIMI in Stuttgart, where I ship web and mobile features for real healthcare workflows. I work across the whole stack, with TypeScript on the front and back, mobile in Flutter and React Native, and the cloud on AWS. Most of my time right now goes into FHIR healthcare data, AI-assisted clinical tooling, and offline-first mobile apps.
 
-Master's in Computer Science at ESPRIT (2023 to 2026). I speak Arabic (native), English (fluent), French (B1 to B2), and German (A1 to A2).
+National Engineering Degree in Computer Science (M.Sc. equivalent, 5-year program) at ESPRIT (2023 to 2026). I speak Arabic (native), English (fluent), French (B1 to B2), and German (A1 to A2).
 
 ---
 
